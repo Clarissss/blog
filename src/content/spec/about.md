@@ -1,9 +1,12 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Security researcher focused on web application security, bug bounty hunting, and backend reconnaissance. This blog documents findings, methodologies, and lessons learned from real-world engagements.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Topics you'll find here:
+
+- WebSocket security and reconnaissance
+- Information disclosure and misconfiguration
+- Backend fingerprinting and stack identification
+- Responsible disclosure workflows
+
+All research is conducted ethically and within scope. No exploitation beyond proof-of-concept is performed.
